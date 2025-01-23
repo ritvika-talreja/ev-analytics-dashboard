@@ -3,7 +3,7 @@
 ## Overview
 This project is a Dash-based interactive dashboard for analyzing the electric vehicle (EV) market size. The dashboard provides insights into various aspects of the EV market, including adoption trends, type distribution, geographical distribution, popular models, electric range analysis, and market forecasts.
 
-![Dashboard Screenshot](Screenshot%202025-01-23%20at%209.05.01%20AM.png)
+![Dashboard Screenshot](EletricVehiclesDashboard.png)
 
 ## Features
 - **EV Adoption Over Time**: Visualizes the number of EVs adopted each year.
