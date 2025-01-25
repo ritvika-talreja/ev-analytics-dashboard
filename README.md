@@ -41,12 +41,6 @@ This project is a Dash-based interactive dashboard for analyzing the electric ve
 
 6. Open the app in your browser at `http://127.0.0.1:8050/`.
 
-## File Structure
-- `app.py`: Main application script for the dashboard.
-- `Electric_Vehicle_Data.csv`: Dataset used for analysis.
-- `requirements.txt`: List of Python dependencies.
-- `Screenshot 2025-01-23 at 9.05.01 AM.png`: Example screenshot of the dashboard.
-
 ## Dataset
 The dataset `Electric_Vehicle_Data.csv` includes information about EVs, such as:
 - Vehicle Identification and Registration: Includes VIN (partial), vehicle ID, registration details (county, city, state, postal code), and legislative district.
@@ -77,6 +71,4 @@ The dataset `Electric_Vehicle_Data.csv` includes information about EVs, such as:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contributing
-Feel free to open issues or submit pull requests for improvements and bug fixes.
 
